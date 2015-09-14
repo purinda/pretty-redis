@@ -1,0 +1,5 @@
+{
+  "name"    : "PrettyRedis",
+  "version" : "0.0.7",
+  "main"    : "main.js"
+}
